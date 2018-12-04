@@ -1,0 +1,9 @@
+[intranet]
+worker2.appcluster.net
+
+[myself]
+devops.farzi.net
+
+[everyone:children]
+myself
+intranet
